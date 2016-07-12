@@ -1,0 +1,29 @@
+{
+  "name": "stocks-explorer",
+  "description": "stocks explorer based on react frontend and node backend",
+  "main": "server.js",
+  "authors": [
+    "Andre Almeida"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "acao",
+    "bovespa",
+    "acoes",
+    "react",
+    "node",
+    "nodejs",
+    "stock"
+  ],
+  "homepage": "https://github.com/andrefa/stocks-explorer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
